@@ -10,7 +10,7 @@ import 'base/bloc_state.dart';
 import 'generated/l10n.dart';
 
 class OtpGeneratorApp extends StatefulWidget {
-  const OtpGeneratorApp({Key? key}) : super(key: key);
+  const OtpGeneratorApp({super.key});
   static GlobalKey<NavigatorState> appGlobalKey = GlobalKey<NavigatorState>();
 
   @override
@@ -27,7 +27,7 @@ class _OtpGeneratorState
       initialRoute: NavigationUtils.homeRoute,
       builder: (BuildContext context, Widget? child) {
         return MediaQuery(
-          data: MediaQuery.of(context).copyWith(textScaleFactor: 1),
+          data: MediaQuery.of(context).copyWith(textScaler: const TextScaler.linear(1)),
           child: child!,
         );
       },

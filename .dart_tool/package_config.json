@@ -135,7 +135,7 @@
     },
     {
       "name": "flutter_speed_dial",
-      "rootUri": "file:///Users/migue/.pub-cache/hosted/pub.dev/flutter_speed_dial-5.1.0",
+      "rootUri": "file:///Users/migue/.pub-cache/hosted/pub.dev/flutter_speed_dial-7.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -189,9 +189,9 @@
     },
     {
       "name": "js",
-      "rootUri": "file:///Users/migue/.pub-cache/hosted/pub.dev/js-0.6.7",
+      "rootUri": "file:///Users/migue/.pub-cache/hosted/pub.dev/js-0.7.1",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "kiwi",
@@ -249,9 +249,9 @@
     },
     {
       "name": "mobile_scanner",
-      "rootUri": "file:///Users/migue/.pub-cache/hosted/pub.dev/mobile_scanner-2.1.0",
+      "rootUri": "file:///Users/migue/.pub-cache/hosted/pub.dev/mobile_scanner-4.0.1",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.1"
     },
     {
       "name": "otp",
@@ -369,7 +369,7 @@
     },
     {
       "name": "rxdart",
-      "rootUri": "file:///Users/migue/.pub-cache/hosted/pub.dev/rxdart-0.27.7",
+      "rootUri": "file:///Users/migue/.pub-cache/hosted/pub.dev/rxdart-0.28.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -500,7 +500,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-11-28T01:34:58.133759Z",
+  "generated": "2024-11-28T05:34:10.629518Z",
   "generator": "pub",
   "generatorVersion": "3.4.3",
   "flutterRoot": "file:///Users/migue/Downloads/development/flutter",

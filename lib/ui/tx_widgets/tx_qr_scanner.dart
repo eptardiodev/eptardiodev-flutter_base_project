@@ -12,7 +12,7 @@ import '../../res/R.dart';
 class QRScanner extends StatelessWidget {
   final MobileScannerController cameraController = MobileScannerController();
 
-  QRScanner({Key? key}) : super(key: key);
+  QRScanner({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -22,9 +22,9 @@ class QRScanner extends StatelessWidget {
           children: [
             MobileScanner(
                 controller: cameraController,
-                onDetect: (barcode, args) {
+                onDetect: (barcode) {
                   cameraController.dispose();
-                  final String? code = barcode.rawValue;
+                  final String? code = barcode.barcodes.first.rawValue;
                   NavigationUtils.pop(context, result: code);
                 }),
             Padding(

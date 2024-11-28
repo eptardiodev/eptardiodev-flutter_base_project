@@ -80,8 +80,8 @@ file:///Users/migue/.pub-cache/hosted/pub.dev/flutter_slidable-3.1.1/
 file:///Users/migue/.pub-cache/hosted/pub.dev/flutter_slidable-3.1.1/lib/
 flutter_speed_dial
 2.12
-file:///Users/migue/.pub-cache/hosted/pub.dev/flutter_speed_dial-5.1.0/
-file:///Users/migue/.pub-cache/hosted/pub.dev/flutter_speed_dial-5.1.0/lib/
+file:///Users/migue/.pub-cache/hosted/pub.dev/flutter_speed_dial-7.0.0/
+file:///Users/migue/.pub-cache/hosted/pub.dev/flutter_speed_dial-7.0.0/lib/
 fluttertoast
 2.12
 file:///Users/migue/.pub-cache/hosted/pub.dev/fluttertoast-8.2.8/
@@ -107,9 +107,9 @@ intl_utils
 file:///Users/migue/.pub-cache/hosted/pub.dev/intl_utils-2.8.7/
 file:///Users/migue/.pub-cache/hosted/pub.dev/intl_utils-2.8.7/lib/
 js
-2.19
-file:///Users/migue/.pub-cache/hosted/pub.dev/js-0.6.7/
-file:///Users/migue/.pub-cache/hosted/pub.dev/js-0.6.7/lib/
+3.1
+file:///Users/migue/.pub-cache/hosted/pub.dev/js-0.7.1/
+file:///Users/migue/.pub-cache/hosted/pub.dev/js-0.7.1/lib/
 kiwi
 2.14
 file:///Users/migue/.pub-cache/hosted/pub.dev/kiwi-5.0.1/
@@ -147,9 +147,9 @@ meta
 file:///Users/migue/.pub-cache/hosted/pub.dev/meta-1.12.0/
 file:///Users/migue/.pub-cache/hosted/pub.dev/meta-1.12.0/lib/
 mobile_scanner
-2.17
-file:///Users/migue/.pub-cache/hosted/pub.dev/mobile_scanner-2.1.0/
-file:///Users/migue/.pub-cache/hosted/pub.dev/mobile_scanner-2.1.0/lib/
+3.1
+file:///Users/migue/.pub-cache/hosted/pub.dev/mobile_scanner-4.0.1/
+file:///Users/migue/.pub-cache/hosted/pub.dev/mobile_scanner-4.0.1/lib/
 otp
 2.12
 file:///Users/migue/.pub-cache/hosted/pub.dev/otp-3.1.4/
@@ -228,8 +228,8 @@ file:///Users/migue/.pub-cache/hosted/pub.dev/pub_semver-2.1.4/
 file:///Users/migue/.pub-cache/hosted/pub.dev/pub_semver-2.1.4/lib/
 rxdart
 2.12
-file:///Users/migue/.pub-cache/hosted/pub.dev/rxdart-0.27.7/
-file:///Users/migue/.pub-cache/hosted/pub.dev/rxdart-0.27.7/lib/
+file:///Users/migue/.pub-cache/hosted/pub.dev/rxdart-0.28.0/
+file:///Users/migue/.pub-cache/hosted/pub.dev/rxdart-0.28.0/lib/
 source_span
 2.18
 file:///Users/migue/.pub-cache/hosted/pub.dev/source_span-1.10.0/
