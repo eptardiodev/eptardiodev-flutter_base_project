@@ -6,7 +6,7 @@ import '../res/R.dart';
 import '../utils/global_regexp.dart';
 import 'package:base32/base32.dart';
 
-class FormValidatorBloC {
+mixin FormValidatorBloC {
 
   FormFieldValidator otpLabelValidator() {
     FormFieldValidator validator = (value) {

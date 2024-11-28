@@ -15,7 +15,7 @@ import '../../domain/2fa/i_2fa_repository.dart';
 import '../../res/R.dart';
 import '../../utils/global_regexp.dart';
 
-class AuthenticatorBloC extends BaseBloC with LoadingBloC, ErrorHandlerBloC, FormValidatorBloC {
+class AuthenticatorBloC extends BaseBloC with LoadingHandler, ErrorHandlerBloC, FormValidatorBloC {
   final I2faRepository _i2faRepository;
 
   AuthenticatorBloC(this._i2faRepository);

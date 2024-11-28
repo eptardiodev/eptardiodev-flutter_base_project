@@ -1,7 +1,7 @@
 import 'package:otp_generator/utils/extensions.dart';
 import 'package:rxdart/rxdart.dart';
 
-class LoadingBloC{
+mixin LoadingHandler{
   final BehaviorSubject<bool> _loadingController = BehaviorSubject();
 
   Stream<bool> get isLoadingStream => _loadingController.stream;
